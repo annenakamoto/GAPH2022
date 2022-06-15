@@ -1,0 +1,224 @@
+# This output was generated with AUGUSTUS (version 3.4.0).
+# AUGUSTUS is a gene prediction tool written by M. Stanke (mario.stanke@uni-greifswald.de),
+# O. Keller, S. König, L. Gerischer, L. Romoth and Katharina Hoff.
+# Please cite: Mario Stanke, Mark Diekhans, Robert Baertsch, David Haussler (2008),
+# Using native and syntenically mapped cDNA alignments to improve de novo gene finding
+# Bioinformatics 24: 637-644, doi 10.1093/bioinformatics/btn013
+# No extrinsic information on sequences given.
+# Sources of extrinsic information: M RM 
+# Initializing the parameters using config directory /usr/local/config/ ...
+# tomato version. Using default transition matrix.
+# Looks like heinz_tomato_chrom1_50kbp.fasta is in fasta format.
+# We have hints for 0 sequences and for 0 of the sequences in the input set.
+#
+# ----- prediction on sequence number 1 (length = 55920, name = CM001064.3) -----
+#
+# Predicted genes for sequence number 1 on both strands
+# start gene g1
+CM001064.3	AUGUSTUS	gene	12966	14993	0.62	+	.	g1
+CM001064.3	AUGUSTUS	transcript	12966	14993	0.62	+	.	g1.t1
+CM001064.3	AUGUSTUS	tss	12966	12966	.	+	.	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	exon	12966	13102	.	+	.	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	start_codon	13023	13025	.	+	0	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	intron	13103	13175	0.87	+	.	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	intron	13381	13459	1	+	.	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	intron	13661	13737	1	+	.	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	intron	13953	14031	1	+	.	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	intron	14286	14370	0.76	+	.	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	intron	14424	14500	0.94	+	.	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	CDS	13023	13102	0.87	+	0	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	CDS	13176	13380	0.87	+	1	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	exon	13176	13380	.	+	.	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	CDS	13460	13660	1	+	0	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	exon	13460	13660	.	+	.	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	CDS	13738	13952	1	+	0	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	exon	13738	13952	.	+	.	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	CDS	14032	14285	0.69	+	1	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	exon	14032	14285	.	+	.	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	CDS	14371	14423	0.94	+	2	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	exon	14371	14423	.	+	.	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	CDS	14501	14947	1	+	0	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	exon	14501	14993	.	+	.	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	stop_codon	14945	14947	.	+	0	transcript_id "g1.t1"; gene_id "g1";
+CM001064.3	AUGUSTUS	tts	14993	14993	.	+	.	transcript_id "g1.t1"; gene_id "g1";
+# protein sequence = [MVLSKTPSDDSVHSTFASRYVRTSLPRFEMLEKSIPKEAAYQMINDELMLDGNPRLNLASFVTTWMEPECDKLMMASI
+# NKNYVDMDEYPVTTELQNRCVNMIARLFNAPLKEEEIGIGVGTVGSSEAIMLAGLAFKRNWQNKRKAEGKPYDKPNIVTGANVQVCWEKFANYFEVEL
+# KQVKLSEGYYVMDPIKAVEMVDDNTICVAAILGSTLNGEFEDVKLLNDLLIEKNKQTGWDTPIHVDAASGGFIAPFIYPELEWDFRLPLVKSINVSGH
+# KYGLVYAGIGWVIWRTKQDLPQQLIFHINYLGADQPTFTLNFSKGSSQVIAQYYQLIRLGYEGYRNVMENCRENAIVLRKGLEKTGRFNIISKDEGIP
+# LVAFSLKDNSLHNEFEVSETLRRFGWIVPAYTMPADLQHVTVLRVVIREDFSRTLADRLVSDIVKVLHELPNAKKVEDNLMINNEKKTEIEVQRAIAE
+# FWKKYVLARKASIC]
+# Evidence for and against this transcript:
+# % of transcript supported by hints (any source): 0
+# CDS exons: 0/7
+# CDS introns: 0/6
+# 5'UTR exons and introns: 0/1
+# 3'UTR exons and introns: 0/1
+# hint groups fully obeyed: 4
+#     RM:   4 
+# incompatible hint groups: 4
+#     RM:   4 
+# end gene g1
+###
+# start gene g2
+CM001064.3	AUGUSTUS	gene	30832	46437	0.04	-	.	g2
+CM001064.3	AUGUSTUS	transcript	30832	46437	0.04	-	.	g2.t1
+CM001064.3	AUGUSTUS	tts	30832	30832	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	30832	31259	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	stop_codon	30927	30929	.	-	0	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	31260	31695	0.99	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	32001	32690	0.83	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	32959	33560	0.99	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	33768	33850	1	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	34070	34152	1	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	34300	34565	0.53	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	34664	35543	0.83	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	35847	36149	1	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	36382	37168	0.56	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	37277	37388	0.82	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	37437	37547	0.99	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	37733	38805	0.92	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	38862	39872	0.99	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	39939	40016	1	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	40070	40818	1	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	40937	41010	0.98	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	41113	41309	0.98	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	41468	41542	0.99	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	41621	42692	0.93	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	42785	42948	0.98	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	intron	43000	43577	0.92	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	30927	31259	0.99	-	0	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	31696	32000	0.84	-	2	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	31696	32000	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	32691	32958	0.98	-	0	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	32691	32958	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	33561	33767	1	-	0	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	33561	33767	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	33851	34069	1	-	0	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	33851	34069	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	34153	34299	0.53	-	0	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	34153	34299	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	34566	34663	0.99	-	2	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	34566	34663	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	35544	35846	1	-	2	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	35544	35846	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	36150	36381	0.9	-	0	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	36150	36381	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	37169	37276	0.47	-	0	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	37169	37276	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	37389	37436	0.99	-	0	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	37389	37436	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	37548	37732	0.95	-	2	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	37548	37732	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	38806	38861	0.98	-	1	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	38806	38861	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	39873	39938	1	-	1	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	39873	39938	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	40017	40069	1	-	0	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	40017	40069	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	40819	40936	1	-	1	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	40819	40936	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	41011	41112	0.98	-	1	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	41011	41112	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	41310	41467	0.99	-	0	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	41310	41467	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	41543	41620	0.98	-	0	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	41543	41620	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	42693	42784	1	-	2	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	42693	42784	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	42949	42999	0.98	-	2	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	42949	42999	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	CDS	43578	43776	0.94	-	0	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	43578	43782	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	start_codon	43774	43776	.	-	0	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	exon	46345	46437	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+CM001064.3	AUGUSTUS	tss	46437	46437	.	-	.	transcript_id "g2.t1"; gene_id "g2";
+# protein sequence = [MELLVETRPFRIVEESISAESSDPTNAVIFVGISLLLGIGCRHLLRGTRVPYSVALLVLGIGLGALEYGTHHGLGRIG
+# DGIRIWANIDPDLLLAVFLPALLFESAFSMEIHQIKRCAVQMLLLAGPGVLISTFFLGAALKIAFPYNWSWSTSLLLGGLLSATDPVAVVALLKELGA
+# SKKLGTIIEGESLMNDGTAIVVYQLLLRMVTGWTFNWGAVIKFLVQVSLGAVGFGIAFGIASVLWLGFIFNDTVIEISLTLAVSYVAYFTAQQGADVS
+# GVLTVMTLGMFYSAVAKTAFKGESHQSLHHFCGVVIAEGILAGDNIFKIYDNSWGYLILLYVLILVSRAVVVGVLYPFLRYFGYGLDLKEAFILVWGG
+# LRGAVALSLSLSVKRSSDGSQYISSDTGTLFVFLTGGVVFLTLIINGSTTQFALHYLGMDKLSAAKKRILNYTKYEMLNKALEAFGDLGDDEELGPAD
+# WPTVKRYITSLNDVEGEPVHPHTSSGNDDNVDHMHLEDIRIRLLNGVQAAYWEMLNEGRIPQTIANLLMQSVEEANDVVSHEPLCDWKGLKSYVNIPN
+# YYKFLQTSFVHRKLVTYFTVERLESACYICAGFLRAHRTARQQLNEFIGESEIASLVIKESEEEGEDARKFLEEVRVSFPQKVHTQVLRVVKTRQVTY
+# AVLNHLIDYVHNLEKIGILEEKEMAHLHDAVQTDLKRLVRNPPLVKFPKIRDLISVNPLLGALPPTVRETLIGSTKEIMKLRGATLYEEGSKATRVWL
+# ISNGVVKWSSKSTSNIHLLHPTFSHGSTLGLYEVLVGKPYICDIITDSVALCFSVDNERILTALRSDPAVEDFFWQESALVLAKVLLPQMFETTKMQD
+# MRTLVAERSTMSIYIRGESFELPHHSIGFLLEGFVKSHGSHEGLLSAPAPLLPLALEQQSFHNTEASGVHAASFSHQPSQYQVETRARVIMFDIAGFL
+# SGRGLQRRSSSLLSHSIDHPSRSFSRELGGLMSWPENTYKAMQHRQDVERTGQQETNMSTRAMQLNIFGSMISDTRSRSRSFPGISAAKTSHSQSYPE
+# VRSDGVQTLVSVRSEGSTTLRKKAQVQGENKDMSIQLPSAPIEESDTREYSSDDSGGEDEHLIRIDSGRPSFPQWIAEEDKTS]
+# Evidence for and against this transcript:
+# % of transcript supported by hints (any source): 0
+# CDS exons: 0/22
+# CDS introns: 0/21
+# 5'UTR exons and introns: 0/3
+# 3'UTR exons and introns: 0/1
+# hint groups fully obeyed: 58
+#     RM:  58 
+# incompatible hint groups: 3
+#     RM:   3 
+# end gene g2
+###
+# start gene g3
+CM001064.3	AUGUSTUS	gene	46556	54370	0.01	+	.	g3
+CM001064.3	AUGUSTUS	transcript	46556	54370	0.01	+	.	g3.t1
+CM001064.3	AUGUSTUS	tss	46556	46556	.	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	exon	46556	46717	.	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	exon	47014	47393	.	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	start_codon	47022	47024	.	+	0	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	intron	47394	48016	0.7	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	intron	48109	48441	0.98	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	intron	48916	49027	1	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	intron	49940	51319	0.93	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	intron	51361	51525	0.93	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	intron	52109	52273	0.99	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	intron	52412	52500	1	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	intron	52658	53142	0.53	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	intron	53252	53345	0.51	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	intron	53434	54018	0.44	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	CDS	47022	47393	0.68	+	0	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	CDS	48017	48108	0.98	+	0	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	exon	48017	48108	.	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	CDS	48442	48915	0.98	+	1	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	exon	48442	48915	.	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	CDS	49028	49939	0.86	+	1	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	exon	49028	49939	.	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	CDS	51320	51360	0.96	+	1	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	exon	51320	51360	.	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	CDS	51526	52108	0.96	+	2	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	exon	51526	52108	.	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	CDS	52274	52411	0.99	+	1	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	exon	52274	52411	.	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	CDS	52501	52657	1	+	1	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	exon	52501	52657	.	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	CDS	53143	53251	0.42	+	0	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	exon	53143	53251	.	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	CDS	53346	53433	0.22	+	2	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	exon	53346	53433	.	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	CDS	54019	54235	0.87	+	1	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	exon	54019	54370	.	+	.	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	stop_codon	54233	54235	.	+	0	transcript_id "g3.t1"; gene_id "g3";
+CM001064.3	AUGUSTUS	tts	54370	54370	.	+	.	transcript_id "g3.t1"; gene_id "g3";
+# protein sequence = [MAKDMKGSPLAASFDYELYEGDPDHLRTVVAAPAPAGPYIDPASIKLKHRIGRGYFGDVWSATHHQSATEYDEHHEVA
+# VKRLHPINEDQVKAFLSKFEDLWVKLKSKQIQGVCWLHGITVISGKICIVMRSYEGSVGDKMARLKRGKLQLPDVLRYGIELGKVIQELHSMNVLVLN
+# LKPTNFLLNEHDEVFLGDFGIPYLLLGVQPPDSDLALRRGTPNYMAPEQWEPEVRGPITCETDAWGFGCSVIEMLTGVQPWFGKSVYDIYRLVVINQE
+# KPQLPGGLPTAIENVLNGCFEYDLRNRPLMVDILQAFESSKNAVYSEGEGSDIGGTLSEKSKTCGFTTWFLSKDHLQVGDTIRSRKMFNSRNSQDLAV
+# LEGSVVGLEKDTDRDGFVLVRVPNLRSPLRVNASTIERVTCGLATGDWVRLVNESKNHFSVGILHSVQRDGSISVGILGLETLWTGHSSEVEKVDPYF
+# LGQFVQLKSNVETPRFEWPKKWGGGWATGRISQILPNGCLVVQFPGRLVFGDEPNTFLADPDEVMEVSFDTCPGIIKKYQHLEDFHWCIRPLSIAFSL
+# LTAAKLGVSVGKCINAKLKKDHDHRTKDGEVGGKPAWLRPNILFKEGASESYRYYDLPFCIPDHVKLEENKEDVGEVLNGDRLMSGPYALDFLVDKDS
+# EILCRKKLTKDEVAQFRRAVDKDYYFEMYYDELPIWGLIGRVENREVTEDTKYYSYFLYKHIHFDIHYNRDRVIEITARMDPHSVLDLTEDREVDAEF
+# TYTAKWKGTDILFENRMDKFLQTTLPHIHWFSIINSCVTVLLLTGFLATILMRVLKNDFVKYAHDEEAVNDQEETGWKYIHGDVFRFPKHKSLFAAAL
+# GCGAQLFTLTIFIFLMALVGVFYPYNRGALFTALLVIYALTSGVGGYTSTSFYCQLEGTNWLTFESTLPLTGKESDLDRMSLLWASRVNVLLSQFCCS
+# GIAGKNSRTNFQAPCRTTKYPREIPVLPWSFLCGGSTGLFIYTYCLYYYARSGMSGFMQTSCFFGYMACICYGFFLMFGTIGFRASLLFVRHIYRSIK
+# CE]
+# Evidence for and against this transcript:
+# % of transcript supported by hints (any source): 0
+# CDS exons: 0/11
+# CDS introns: 0/10
+# 5'UTR exons and introns: 0/3
+# 3'UTR exons and introns: 0/1
+# hint groups fully obeyed: 30
+#     RM:  30 
+# incompatible hint groups: 5
+#     RM:   5 
+# end gene g3
+###
+# command line:
+# augustus --species=tomato heinz_tomato_chrom1_50kbp.fasta

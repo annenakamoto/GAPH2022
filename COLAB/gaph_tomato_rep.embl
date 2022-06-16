@@ -651,6 +651,138 @@ SQ   Sequence 4059 BP; 1410 A; 646 C; 881 G; 1122 T; 0 other;
      agaccacgga acagccagca gatgttctca ccaaagcagt gcccattgag atgcttgaac      4020
      agttcaaaga taatatgaaa attacaaatt aagagaggg                             4059
 //
+ID   SHACOP4_I_MT repbase;    DNA;   DCOT; 4025 BP.
+XX
+AC   .
+XX
+DT   12-JAN-2007 (Rel. 12.01, Created)
+DT   12-JAN-2007 (Rel. 12.01, Last updated, Version 1)
+XX
+DE   Internal region of LTR retroposon, SHACOP4_MT, from Medicago
+DE   truncatula.
+XX
+KW   Copia; LTR Retrotransposon; Transposable Element; LTR; retroposon;
+KW   internal region; Interspersed; repeat; ORF; SHACOP4_I_MT.
+XX
+OS   Medicago truncatula
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; core eudicotyledons;
+OC   rosids; fabids; Fabales; Fabaceae; Papilionoideae; Trifolieae;
+OC   Medicago.
+XX
+RN   [1]
+RP   1-4025
+RA   Shankar R., Jurka J.;
+RT   "SHACOP4_MT: LTR retroposon from barrel medic.";
+RL   Repbase Reports 7(1), 74-74 (2007).
+XX
+DR   [1] (Consensus)
+XX
+CC   The internal region has intact domains for gag-pol polyprotein
+CC   having gag-int-pol pattern of Copia-type LTR. Present in Medicago
+CC   genome in poorly conserved copies.
+XX
+FH   Key           Location/Qualifiers
+FT   CDS           81..4022
+FT                 /product="SHACOP4_I_MT_1p"
+FT                 /translation="MASNNITLPAPPVFTGKKYEIWSVKMKTHLRAYDLWE
+FT                 VVETAAEPPPLQENPTVAQMRYHSEQVAKRAKALTILHSAVNDDVFMRISH
+FT                 LETAKQVWEKLEEEFFGNERTKQMQVLNLKREFEALKMNEAENIIDFMTKV
+FT                 MKVVNQIRLLGEQFLDSRIVEKVLVVLPERFESKISALEESKDLSKITLTE
+FT                 LINALQAQEQRRLLRQEEASETALQVKHKGKSIATKGEKKFVGEHSGKDTK
+FT                 KKERFPKCGICKRTSHKESDCWYKGKTPPPFQCRYCNKTGHIERFCRLKQQ
+FT                 HQNQQNHTSQKANVTEIEDSEELLFMANTTRSSEDGDTWFIDSGCTQHMTS
+FT                 KPELFSEIKPAAGSVKIGNGQKVAITGRGTVKIHTATGIKYISDVLLVPEL
+FT                 DQNLLSVGQMIEKGYCLLFKEGSCVVTDVNGHELFEVNMRKRSFPINWNLV
+FT                 SEHECNMSKAELDSKLWHKRFGHYNLKSIQFAQKQELVKDLPNIQTFSEVC
+FT                 EGCQLGKQHRLPFPSSATWRASDKLELVHSDVCGPMNTSSLNGSKYFILFI
+FT                 DDFTRMTWVYFLKQKSEVFSVFKKFKIFVENQSGCLLKKLRTDNGKEYTSA
+FT                 EFNKFCDDLGVERQLTVSYSPQQNGVSERKNRSVLEMARCMIFEKKLPKSF
+FT                 WAEAINTAVYLQNRLPTKAVEGMTPIEAWGGFKPSIKHLRVFGSLCYTHIP
+FT                 DVKRSKLDEKAEKGILIGYSSKSKGYKVYGIDSNKIFINRDVKVDEDAYWN
+FT                 WETSQVDRGSTLSSLEDANEDQDEEVDDDFAVRGTRPLSEIYQRCNSAVLE
+FT                 PTSFEDASKVDEWYQAMKEEMDNIEKNKTWQLVDKPRDKNVIGVKWVYRVK
+FT                 MNPDGSINKYKARLVVKGYVQQSGIDYTETFAPVARMDTIRILVALAAQMK
+FT                 WKIWHLDVKSAFLNGNLDEEIYVAQPAGFLVKGREDKVYKLNKALYGLKQA
+FT                 PRAWYSKIDSHFLNQGFKRSENDATLYVRRLLDGGSLIVSLYVDDLLVTSN
+FT                 NQQEVQQLMEEMKNQFEMSSLGEMNYFLGLEVHQSENGIFLNQEKYAREVL
+FT                 KKFKMESCKSAPTPLVWNLKLSKEDEAEKIDASRYRSLIGSLLYLTSSRPD
+FT                 LMYAASLLSRFMQNPTKTHFAAAKRVLRYVKGTTQFGIWYKPSENESLLGY
+FT                 VDSDWAGNIDDMKSTTGYAFSLGSGMFSWNSRKQEIVAQSTAEAEYVAAAA
+FT                 AANQAIWLRKILDDLGIQQLEATVLYCDSKSAIAIAENPVQHGKTKHIQVK
+FT                 YHAIREAVKNQEIKLIHCCSDSQVSDILTKSLPRAKFEKFRELLGVSIQNL
+FT                 KE"
+XX
+SQ   Sequence 4025 BP; 1360 A; 636 C; 896 G; 1133 T; 0 other;
+     atggtataca gagcttcttt gttcttaaag ggcctgtgat taaaaaccct tgctttcttg        60
+     acacccaacc atttttcttg atggcttcaa acaatattac ccttccagca cctcctgtat       120
+     ttacaggaaa gaaatatgaa atctggtctg tgaagatgaa gactcatttg agggcatatg       180
+     atctttggga agtggtggaa acagctgctg aaccaccacc tttgcaagaa aatccaactg       240
+     ttgctcaaat gagataccac agtgagcaag ttgccaagag agctaaggct cttaccatcc       300
+     ttcactctgc tgtgaatgat gatgttttca tgagaatctc acacttggag acagcaaaac       360
+     aagtttggga aaagctagaa gaagagtttt ttgggaatga aagaaccaag cagatgcagg       420
+     ttctaaatct caaaagagag tttgaagcct taaagatgaa tgaggctgaa aacataattg       480
+     atttcatgac gaaagttatg aaagttgtga atcaaatcag attgttggga gaacaatttc       540
+     ttgatagcag aattgtagaa aaagtcttgg tggttttacc tgaaagattc gaatcaaaga       600
+     tttctgcact tgaagaatca aaagatcttt ccaagataac cttaacagag cttataaatg       660
+     ctcttcaagc tcaagagcag agaagacttt tgagacaaga ggaagcatca gaaacagctt       720
+     tacaagtcaa acacaaagga aaatccatag caaccaaagg tgaaaagaaa tttgttggag       780
+     agcactctgg gaaagataca aagaagaagg aaagatttcc aaaatgtgga atttgcaaaa       840
+     gaaccagcca caaggaaagt gattgttggt acaaaggaaa aacaccacca ccatttcaat       900
+     gtagatactg caataaaact gggcatattg agaggttttg taggctgaaa cagcagcacc       960
+     aaaatcaaca aaatcatact tctcaaaagg caaatgtaac tgaaattgaa gatagtgaag      1020
+     aactcttgtt catggccaat actacaagga gttcggagga tggagacaca tggtttattg      1080
+     atagtggctg cacacaacac atgactagca aaccagaact gttttcagag atcaaacccg      1140
+     ctgcaggatc tgtaaagatt ggaaatggac agaaagttgc catcacaggt agaggaacgg      1200
+     tgaaaattca cactgcaaca ggtattaaat acatttctga tgtactttta gttcctgaac      1260
+     ttgatcaaaa cctgttgagt gtgggccaaa tgattgaaaa aggttattgt ttgttattta      1320
+     aagaaggaag ttgtgtggtt actgatgtta atggtcatga attatttgaa gtaaatatga      1380
+     gaaaaagaag ttttcctatt aactggaatt tagtttctga acatgaatgt aatatgagta      1440
+     aagctgaact tgattctaag ctttggcaca aaagatttgg ccactataat ttgaaatcta      1500
+     ttcaatttgc tcaaaagcaa gagttagtca aagacttgcc caatattcaa actttttcgg      1560
+     aggtgtgtga aggttgtcaa cttggtaagc aacataggtt gccttttcca agttcagcaa      1620
+     catggagagc aagtgataaa cttgaattgg ttcactcaga tgtttgtgga cctatgaata      1680
+     cttcttcact caatggaagc aagtatttta ttctttttat tgatgatttt acaaggatga      1740
+     cttgggttta ttttctgaaa cagaagtctg aagttttttc tgtttttaag aagtttaaga      1800
+     tctttgttga aaatcaaagt ggttgtttat tgaagaaact tagaactgac aacgggaagg      1860
+     agtatacttc tgcagaattc aataaatttt gtgatgattt gggtgttgaa cgtcaactta      1920
+     cagtcagcta ctcgcctcaa cagaacggag tttctgaaag aaagaataga tctgtccttg      1980
+     aaatggctag atgcatgatt tttgagaaga aattgccaaa gtccttctgg gcagaggcaa      2040
+     taaacactgc tgtctatctc caaaatcgac ttcctacaaa ggcggtagaa gggatgacac      2100
+     ctattgaggc ttggggaggc ttcaagccgt ctatcaagca tctgagagtg tttggttcgc      2160
+     tgtgctacac tcacatacca gatgtgaaaa gaagcaaatt ggatgaaaag gctgaaaaag      2220
+     gaattttaat aggctatagc tcaaagtcta agggctataa agtctatgga attgattcaa      2280
+     ataaaatttt cattaataga gatgttaaag tggatgaaga tgcatattgg aattgggaga      2340
+     cctctcaagt tgatagaggt tcaactttgt cttctctcga ggatgcaaat gaagatcaag      2400
+     atgaagaagt tgatgatgac tttgctgtta gaggtacccg acctctttca gagatttatc      2460
+     aaagatgcaa tagtgctgtc cttgaaccta ccagctttga agatgctagt aaagttgatg      2520
+     aatggtacca ggctatgaaa gaggagatgg acaacattga aaagaacaag acatggcagc      2580
+     tggttgacaa gcctagagac aagaatgtca taggagtgaa atgggtctat agggtcaaga      2640
+     tgaacccaga tggatccatc aacaaataca aggccagact tgttgtcaag ggctatgttc      2700
+     aacaatccgg gattgactac acagaaacat ttgcaccggt agcaagaatg gatactattc      2760
+     gaattcttgt agcgttggca gcacaaatga agtggaaaat ttggcattta gatgtcaaat      2820
+     cagcattctt aaatggtaac cttgatgaag aaatttatgt tgctcaacct gctggttttt      2880
+     tggtgaaagg gagggaagac aaggtgtata agcttaataa agctttgtat gggctgaaac      2940
+     aggcccctag agcttggtat agcaaaattg atagccactt tcttaatcaa ggattcaaaa      3000
+     ggagtgaaaa tgatgcaact ctttatgtaa gaagattgtt ggatggtggt tccttaattg      3060
+     tctctttgta tgttgatgac ttgctagtaa caagcaataa tcaacaagaa gttcaacaac      3120
+     ttatggagga gatgaaaaac cagtttgaga tgtctagctt aggggaaatg aactattttc      3180
+     tcggcttgga agtgcatcaa tctgagaatg gaattttttt gaatcaagag aagtatgctc      3240
+     gtgaagtttt gaagaagttt aaaatggaaa gctgcaaatc tgctccaact cctttggtgt      3300
+     ggaatttgaa actctcaaag gaagatgaag ctgaaaaaat tgatgcttct cgttatagaa      3360
+     gtttgattgg gagtctactc tatcttactt catctagacc tgatcttatg tatgcagcaa      3420
+     gcttactctc aagatttatg cagaatccta ccaagacaca ttttgctgca gcaaagaggg      3480
+     tacttagata tgttaagggt actactcaat ttggaatatg gtacaagcca agtgaaaatg      3540
+     aaagtttgtt aggctatgtt gatagtgatt gggctggaaa tatagatgac atgaagagta      3600
+     ctacaggcta tgctttttct ttaggctctg gcatgttctc atggaactcg aggaaacaag      3660
+     aaattgtagc tcaatccacg gctgaagcag agtatgtagc cgcagctgca gcagcaaacc      3720
+     aagctatttg gttgaggaaa atactcgatg acttgggaat acaacagctg gaagcaactg      3780
+     tgctttattg tgatagtaaa tcagcaattg ctattgctga aaatccagtt caacatggaa      3840
+     aaacaaagca tattcaagtg aagtaccatg ccatacgcga ggctgttaaa aatcaagaga      3900
+     tcaaacttat tcattgttgt tctgactctc aagtttctga tatattgact aaatctcttc      3960
+     caagagctaa gtttgaaaag tttcgagaat tgcttggagt gtccatccaa aatctcaagg      4020
+     aggag                                                                  4025
+//
 ID   Copia-92_PTr-I repbase;    DNA;   DCOT; 4098 BP.
 XX
 AC   .
